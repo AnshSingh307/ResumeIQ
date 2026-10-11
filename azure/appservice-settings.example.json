@@ -1,0 +1,15 @@
+[
+  { "name": "RESUMEIQ_ENVIRONMENT", "value": "production", "slotSetting": false },
+  { "name": "RESUMEIQ_DEMO_MODE", "value": "false", "slotSetting": false },
+  { "name": "RESUMEIQ_AUTH_REQUIRED", "value": "true", "slotSetting": false },
+  { "name": "RESUMEIQ_ALLOWED_TENANT_ID", "value": "YOUR-ENTRA-TENANT-ID", "slotSetting": true },
+  { "name": "RESUMEIQ_DATA_DIR", "value": "/home/data", "slotSetting": false },
+  { "name": "RESUMEIQ_ANONYMOUS_DEFAULT", "value": "true", "slotSetting": false },
+  { "name": "RESUMEIQ_USE_AZURE_DOCUMENT_INTELLIGENCE", "value": "false", "slotSetting": false },
+  { "name": "RESUMEIQ_USE_AZURE_LANGUAGE", "value": "false", "slotSetting": false },
+  { "name": "RESUMEIQ_USE_AZURE_BLOB", "value": "true", "slotSetting": false },
+  { "name": "AZURE_STORAGE_ACCOUNT_URL", "value": "https://YOUR-ACCOUNT.blob.core.windows.net", "slotSetting": false },
+  { "name": "AZURE_STORAGE_CONTAINER", "value": "resumes", "slotSetting": false },
+  { "name": "WEBSITES_ENABLE_APP_SERVICE_STORAGE", "value": "true", "slotSetting": false },
+  { "name": "SCM_DO_BUILD_DURING_DEPLOYMENT", "value": "true", "slotSetting": false }
+]

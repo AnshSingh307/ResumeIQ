@@ -1,0 +1,12 @@
+[
+  { "name": "RESUMEIQ_ENVIRONMENT", "value": "production", "slotSetting": false },
+  { "name": "RESUMEIQ_DEMO_MODE", "value": "true", "slotSetting": false },
+  { "name": "RESUMEIQ_AUTH_REQUIRED", "value": "false", "slotSetting": false },
+  { "name": "RESUMEIQ_DEMO_DATA_DIR", "value": "/home/demo-data", "slotSetting": false },
+  { "name": "RESUMEIQ_ANONYMOUS_DEFAULT", "value": "true", "slotSetting": false },
+  { "name": "RESUMEIQ_USE_AZURE_DOCUMENT_INTELLIGENCE", "value": "false", "slotSetting": false },
+  { "name": "RESUMEIQ_USE_AZURE_LANGUAGE", "value": "false", "slotSetting": false },
+  { "name": "RESUMEIQ_USE_AZURE_BLOB", "value": "false", "slotSetting": false },
+  { "name": "WEBSITES_ENABLE_APP_SERVICE_STORAGE", "value": "true", "slotSetting": false },
+  { "name": "SCM_DO_BUILD_DURING_DEPLOYMENT", "value": "true", "slotSetting": false }
+]

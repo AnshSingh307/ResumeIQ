@@ -1,0 +1,2 @@
+-r requirements.txt
+# Azure SDKs are included in requirements.txt so App Service installs a complete runtime.

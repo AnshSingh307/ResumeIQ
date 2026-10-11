@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Python Developer",
+    "description": "Build Python REST APIs, work with SQL and Git, and deploy tested services using Docker.",
+    "required_skills": [
+      "Python",
+      "REST API",
+      "SQL",
+      "Git"
+    ],
+    "preferred_skills": [
+      "FastAPI",
+      "Docker",
+      "Azure App Service"
+    ],
+    "minimum_experience_years": 2
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Create trustworthy business reports using SQL, Excel, Power BI, statistics, and data visualization.",
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "data visualization"
+    ],
+    "preferred_skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "minimum_experience_years": 1
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "Operate Azure services using Terraform, Linux, containers, CI/CD, and private storage practices.",
+    "required_skills": [
+      "Azure",
+      "Terraform",
+      "Linux",
+      "Docker",
+      "CI/CD"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "Azure Functions",
+      "Azure Blob Storage"
+    ],
+    "minimum_experience_years": 3
+  },
+  {
+    "title": "AI/ML Engineer",
+    "description": "Develop Python machine-learning and NLP systems with scikit-learn or PyTorch and clear evaluation evidence.",
+    "required_skills": [
+      "Python",
+      "machine learning",
+      "natural language processing"
+    ],
+    "preferred_skills": [
+      "scikit-learn",
+      "PyTorch",
+      "Docker",
+      "Azure"
+    ],
+    "minimum_experience_years": 2
+  }
+]
