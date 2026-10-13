@@ -9,7 +9,13 @@ __pycache__/
 .env.*
 !.env.example
 *.pem
+*.key
+*.p12
 *.pfx
+credentials.json
+credentials.*.json
+!credentials.example.json
+azure/*-settings.json
 data/
 *.db
 *.sqlite3
